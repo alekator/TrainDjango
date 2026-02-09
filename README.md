@@ -159,4 +159,3 @@ It serves as a solid reference project that demonstrates how to:
 - design backend-centric web applications
 - structure Django projects cleanly
 - build maintainable CRUD systems ready for extension
-
